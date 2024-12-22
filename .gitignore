@@ -1,2 +1,5 @@
 # Virtuelle Umgebung ignorieren
 .venv/
+
+# Betriebssystem-spezifische Dateien
+.DS_Store
